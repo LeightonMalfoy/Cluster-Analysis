@@ -1,6 +1,8 @@
 '''
 plot the R/L or Haversine Distance distribution of aftershock sequences of certain mainshoks
 -- background events excluded
+
+@author:Thomas Goebel, University of Memphis
 '''
 import matplotlib as mpl
 #mpl.use( 'Agg') # uncomment for interactive plotting
